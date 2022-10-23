@@ -1,9 +1,11 @@
-TypeScript Vite HTML Demo
+TypeScript Vite HTML Shadow DOM Demo
 ===========================
+
+如何创建一个shadow DOM
 
 ```
 npm install
-npm run demo
+npm start
 ```
 
 It will open page on browser automatically.
